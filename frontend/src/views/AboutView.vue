@@ -10,7 +10,7 @@
           <el-carousel-item>
             <div class="carousel-item">
               <el-image
-                src="/images/zhixiaodamen.jpg"
+                :src="BASE_URL + 'images/zhixiaodamen.jpg'"
                 fit="cover"
                 style="width: 100%; height: 100%;"
               >
@@ -26,7 +26,7 @@
           <el-carousel-item>
             <div class="carousel-item">
               <el-image
-                src="/images/shixunlou.jpg"
+                :src="BASE_URL + 'images/shixunlou.jpg'"
                 fit="cover"
                 style="width: 100%; height: 100%;"
               >
@@ -42,7 +42,7 @@
           <el-carousel-item>
             <div class="carousel-item">
               <el-image
-                src="/images/diannaojifang.jpg"
+                :src="BASE_URL + 'images/diannaojifang.jpg'"
                 fit="cover"
                 style="width: 100%; height: 100%;"
               >
@@ -115,6 +115,7 @@
 <script setup>
 import { PictureFilled } from '@element-plus/icons-vue'
 // 移除了交互功能相关代码
+const BASE_URL = import.meta.env.BASE_URL
 </script>
 
 <style scoped>

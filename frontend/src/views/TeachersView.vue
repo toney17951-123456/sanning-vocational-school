@@ -10,10 +10,10 @@
             <div class="teacher-header">
               <div class="teacher-avatar">
                 <el-image
-                  :src="teacher.avatar || 'https://picsum.photos/200/200?random=' + teacher.id"
+                  :src="(teacher.avatar ? BASE_URL + teacher.avatar.slice(1) : 'https://picsum.photos/200/200?random=' + teacher.id)"
                   fit="cover"
                   round
-                  :preview-src-list="[teacher.avatar || 'https://picsum.photos/200/200?random=' + teacher.id]"
+                  :preview-src-list="[teacher.avatar ? BASE_URL + teacher.avatar.slice(1) : 'https://picsum.photos/200/200?random=' + teacher.id]"
                 >
                   <template #error>
                     <div class="avatar-slot">
@@ -55,6 +55,7 @@ import { useRouter } from 'vue-router'
 import { UserFilled } from '@element-plus/icons-vue'
 
 const router = useRouter()
+const BASE_URL = import.meta.env.BASE_URL
 
 // 导航到课程详情
 const navigateToCourse = (course) => {
