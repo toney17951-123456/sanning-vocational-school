@@ -221,7 +221,7 @@ const submitApply = () => {
         ElMessage.success('报名信息提交成功，请进行支付')
       }, 1500)
     } else {
-
+      console.log('表单验证失败')
       return false
     }
   })

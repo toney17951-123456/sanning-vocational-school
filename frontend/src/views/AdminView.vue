@@ -454,57 +454,57 @@ const users = ref([
 
 // 操作方法（模拟）
 const handleView = (row) => {
-
+  console.log('查看', row)
   ElMessage.info('查看功能开发中')
 }
 
 const handleDelete = (id) => {
-
+  console.log('删除', id)
   ElMessage.info('删除功能开发中')
 }
 
 const handleNewsStatusChange = (row) => {
-
+  console.log('新闻状态变更', row)
   ElMessage.info('新闻状态变更功能开发中')
 }
 
 const handleEditNews = (row) => {
-
+  console.log('编辑新闻', row)
   ElMessage.info('编辑新闻功能开发中')
 }
 
 const handleDeleteNews = (id) => {
-
+  console.log('删除新闻', id)
   ElMessage.info('删除新闻功能开发中')
 }
 
 const handleEditTeacher = (row) => {
-
+  console.log('编辑教师', row)
   ElMessage.info('编辑教师功能开发中')
 }
 
 const handleDeleteTeacher = (id) => {
-
+  console.log('删除教师', id)
   ElMessage.info('删除教师功能开发中')
 }
 
 const handleEditCourse = (row) => {
-
+  console.log('编辑课程', row)
   ElMessage.info('编辑课程功能开发中')
 }
 
 const handleDeleteCourse = (id) => {
-
+  console.log('删除课程', id)
   ElMessage.info('删除课程功能开发中')
 }
 
 const handleEditUser = (row) => {
-
+  console.log('编辑用户', row)
   ElMessage.info('编辑用户功能开发中')
 }
 
 const handleDeleteUser = (id) => {
-
+  console.log('删除用户', id)
   ElMessage.info('删除用户功能开发中')
 }
 </script>
