@@ -10,7 +10,7 @@
           <el-carousel-item>
             <div class="carousel-item">
               <el-image
-                :src="BASE_URL + 'images/zhixiaodamen.jpg'"
+                :src="'https://toney17951-123456.github.io/sanning-vocational-school/images/zhixiaodamen.jpg'"
                 fit="cover"
                 style="width: 100%; height: 100%;"
               >
@@ -26,7 +26,7 @@
           <el-carousel-item>
             <div class="carousel-item">
               <el-image
-                :src="BASE_URL + 'images/shixunlou.jpg'"
+                :src="'https://toney17951-123456.github.io/sanning-vocational-school/images/shixunlou.jpg'"
                 fit="cover"
                 style="width: 100%; height: 100%;"
               >
@@ -42,7 +42,7 @@
           <el-carousel-item>
             <div class="carousel-item">
               <el-image
-                :src="BASE_URL + 'images/diannaojifang.jpg'"
+                :src="'https://toney17951-123456.github.io/sanning-vocational-school/images/diannaojifang.jpg'"
                 fit="cover"
                 style="width: 100%; height: 100%;"
               >

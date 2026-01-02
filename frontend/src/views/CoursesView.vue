@@ -295,7 +295,7 @@ const courses = ref([
     start_time: '2026-03-02',
     end_time: '2026-03-05',
     teacher_name: '蔡老师',
-    image_url: '/images/caitibing_ttt.jpg',
+    image_url: 'https://toney17951-123456.github.io/sanning-vocational-school/images/caitibing_ttt.jpg',
     details: {
       overview: '本课程旨在培养专业的培训师，提升专、兼职讲师的培训技能，帮助学员掌握培训设计、实施和评估的全套流程，实现突破自我，真正成为一位接受市场考验的专业培训讲师。',
       objectives: [
@@ -355,7 +355,7 @@ const courses = ref([
       ]
     },
     payment_info: {
-      qrcode: '/images/payment-qrcode.jpg',
+      qrcode: 'https://toney17951-123456.github.io/sanning-vocational-school/images/payment-qrcode.jpg',
       bank_account: '中国工商银行 622202 1234 5678 9012 张三',
       registration_link: 'https://ealklohoih0.feishu.cn/share/base/form/shrcnbagoMfbUbcz9To4xla6TWf'
     }
@@ -370,7 +370,7 @@ const courses = ref([
     end_time: '2026-03-11',
     teacher_name: '蔡老师',
     is_new: true,
-    image_url: '/images/aI-application.jpg',
+    image_url: 'https://toney17951-123456.github.io/sanning-vocational-school/images/aI-application.jpg',
     details: {
       overview: '本课程旨在帮助学员掌握AI工具在办公场景中的应用，提升办公效率，包括AI写作、数据分析、图像处理等实用技能，让AI成为您的高效办公助手。',
       objectives: [
@@ -469,7 +469,7 @@ const courses = ref([
       ]
     },
     payment_info: {
-      qrcode: '/images/payment-qrcode.jpg',
+      qrcode: 'https://toney17951-123456.github.io/sanning-vocational-school/images/payment-qrcode.jpg',
       bank_account: '中国招商银行 622588 1234 5678 9012 赵六',
       registration_link: 'https://ealklohoih0.feishu.cn/share/base/form/shrcngaRYyuwDmmvZ8kDuB8Zoyb'
     }
@@ -483,7 +483,7 @@ const courses = ref([
     start_time: '2026-03-15',
     end_time: '2026-03-16',
     teacher_name: '蔡老师',
-    image_url: '/images/caitibing_gongjiangjingshen.jpg',
+    image_url: 'https://toney17951-123456.github.io/sanning-vocational-school/images/caitibing_gongjiangjingshen.jpg',
     details: {
       overview: '本课程旨在培养精益求精、追求卓越的工匠精神，帮助学员理解工匠精神的内涵与价值，提升职业素养和工作品质，在工作中追求卓越，实现个人与企业的共同发展。',
       objectives: [
@@ -555,7 +555,7 @@ const courses = ref([
       ]
     },
     payment_info: {
-      qrcode: '/images/payment-qrcode.jpg',
+      qrcode: 'https://toney17951-123456.github.io/sanning-vocational-school/images/payment-qrcode.jpg',
       bank_account: '中国农业银行 622848 1234 5678 9012 王五',
       registration_link: 'https://ealklohoih0.feishu.cn/share/base/form/shrcnbagoMfbUbcz9To4xla6TWf'
     }
@@ -569,7 +569,7 @@ const courses = ref([
     start_time: '2026-03-20',
     end_time: '2026-03-29',
     teacher_name: '蔡老师',
-    image_url: '/images/caitibing_officesanjianke.jpg',
+    image_url: 'https://toney17951-123456.github.io/sanning-vocational-school/images/caitibing_officesanjianke.jpg',
     details: {
       overview: '本课程全面覆盖Word、Excel、PPT三大办公软件的核心技能，帮助学员掌握高效办公的实用技巧，提升文档处理、数据处理和演示文稿制作能力，实现高效办公。',
       objectives: [
@@ -629,7 +629,7 @@ const courses = ref([
       ]
     },
     payment_info: {
-      qrcode: '/images/payment-qrcode.jpg',
+      qrcode: 'https://toney17951-123456.github.io/sanning-vocational-school/images/payment-qrcode.jpg',
       bank_account: '中国建设银行 621700 1234 5678 9012 李四',
       registration_link: 'https://ealklohoih0.feishu.cn/share/base/form/shrcnbagoMfbUbcz9To4xla6TWf'
     }
@@ -643,7 +643,7 @@ const courses = ref([
     start_time: '2026-03-25',
     end_time: '2026-03-26',
     teacher_name: '蔡老师',
-    image_url: '/images/caitibing_shuzihuanengli.jpg',
+    image_url: 'https://toney17951-123456.github.io/sanning-vocational-school/images/caitibing_shuzihuanengli.jpg',
     details: {
       overview: '本课程旨在提升学员的数字化能力，帮助学员掌握数字化时代的核心技能，包括数据分析、数字营销、数字化管理等，适应数字化转型的需求，提升个人职场竞争力。',
       objectives: [
@@ -712,7 +712,7 @@ const courses = ref([
       ]
     },
     payment_info: {
-      qrcode: '/images/payment-qrcode.jpg',
+      qrcode: 'https://toney17951-123456.github.io/sanning-vocational-school/images/payment-qrcode.jpg',
       bank_account: '中国招商银行 622588 1234 5678 9012 赵六',
       registration_link: 'https://ealklohoih0.feishu.cn/share/base/form/shrcngaRYyuwDmmvZ8kDuB8Zoyb'
     }
@@ -726,7 +726,7 @@ const courses = ref([
     start_time: '2026-03-02',
     end_time: '2026-03-02',
     teacher_name: '陈老师',
-    image_url: '/images/chenying_zhiyeliyi.jpg',
+    image_url: 'https://toney17951-123456.github.io/sanning-vocational-school/images/chenying_zhiyeliyi.jpg',
     details: {
       overview: '本课程旨在帮助学员掌握职场礼仪规范，提升职业形象和沟通能力，建立良好的人际关系，在职场中赢得尊重和信任，促进职业发展。',
       objectives: [
@@ -797,7 +797,7 @@ const courses = ref([
       ]
     },
     payment_info: {
-      qrcode: '/images/payment-qrcode.jpg',
+      qrcode: 'https://toney17951-123456.github.io/sanning-vocational-school/images/payment-qrcode.jpg',
       bank_account: '中国工商银行 622202 1234 5678 9012 张三',
       registration_link: 'https://ealklohoih0.feishu.cn/share/base/form/shrcnbagoMfbUbcz9To4xla6TWf'
     }
@@ -811,7 +811,7 @@ const courses = ref([
     start_time: '2026-03-05',
     end_time: '2026-03-05',
     teacher_name: '陈老师',
-    image_url: '/images/chenying_zhiyesuyang.jpg',
+    image_url: 'https://toney17951-123456.github.io/sanning-vocational-school/images/chenying_zhiyesuyang.jpg',
     details: {
       overview: '本课程旨在提升学员的职业素养，包括职业道德、职业心态、职业规划等方面的培养，帮助学员建立正确的职业价值观，培养积极的职业心态，制定合理的职业规划，实现职业发展目标。',
       objectives: [
@@ -882,7 +882,7 @@ const courses = ref([
       ]
     },
     payment_info: {
-      qrcode: '/images/payment-qrcode.jpg',
+      qrcode: 'https://toney17951-123456.github.io/sanning-vocational-school/images/payment-qrcode.jpg',
       bank_account: '中国农业银行 622848 1234 5678 9012 王五',
       registration_link: 'https://ealklohoih0.feishu.cn/share/base/form/shrcnbagoMfbUbcz9To4xla6TWf'
     }
@@ -896,7 +896,7 @@ const courses = ref([
     start_time: '2026-03-10',
     end_time: '2026-03-10',
     teacher_name: '陈老师',
-    image_url: '/images/chenying_gaoxiaogoutong.jpg',
+    image_url: 'https://toney17951-123456.github.io/sanning-vocational-school/images/chenying_gaoxiaogoutong.jpg',
     details: {
       overview: '本课程旨在帮助学员掌握高效沟通的技巧，提升表达能力和倾听能力，建立良好的工作关系，提高工作效率和团队协作效果，促进职业发展。',
       objectives: [
@@ -967,7 +967,7 @@ const courses = ref([
       ]
     },
     payment_info: {
-      qrcode: '/images/payment-qrcode.jpg',
+      qrcode: 'https://toney17951-123456.github.io/sanning-vocational-school/images/payment-qrcode.jpg',
       bank_account: '中国建设银行 621700 1234 5678 9012 李四',
       registration_link: 'https://ealklohoih0.feishu.cn/share/base/form/shrcnbagoMfbUbcz9To4xla6TWf'
     }
@@ -981,7 +981,7 @@ const courses = ref([
     start_time: '2026-03-18',
     end_time: '2026-03-18',
     teacher_name: '陈老师',
-    image_url: '/images/chenying_luojisiwei.jpg',
+    image_url: 'https://toney17951-123456.github.io/sanning-vocational-school/images/chenying_luojisiwei.jpg',
     details: {
       overview: '本课程旨在培养学员的逻辑思维能力，提升分析问题和解决问题的能力，帮助学员掌握逻辑思维的基本方法和技巧，提高工作效率和决策质量，促进职业发展。',
       objectives: [
@@ -1053,7 +1053,7 @@ const courses = ref([
       ]
     },
     payment_info: {
-      qrcode: '/images/payment-qrcode.jpg',
+      qrcode: 'https://toney17951-123456.github.io/sanning-vocational-school/images/payment-qrcode.jpg',
       bank_account: '中国招商银行 622588 1234 5678 9012 赵六',
       registration_link: 'https://ealklohoih0.feishu.cn/share/base/form/shrcngaRYyuwDmmvZ8kDuB8Zoyb'
     }
@@ -1067,7 +1067,7 @@ const courses = ref([
     start_time: '2026-04-01',
     end_time: '2026-04-07',
     teacher_name: '蔡老师',
-    image_url: '/images/caitibing_Excel.jpg',
+    image_url: 'https://toney17951-123456.github.io/sanning-vocational-school/images/caitibing_Excel.jpg',
     details: {
       overview: '本课程旨在帮助学员掌握Excel实用技能，提升数据处理效率，包括函数应用、数据透视表、图表制作等，让Excel成为您的高效办公助手。',
       objectives: [
@@ -1144,7 +1144,7 @@ const courses = ref([
       ]
     },
     payment_info: {
-      qrcode: '/images/payment-qrcode.jpg',
+      qrcode: 'https://toney17951-123456.github.io/sanning-vocational-school/images/payment-qrcode.jpg',
       bank_account: '中国工商银行 622202 1234 5678 9012 张三',
       registration_link: 'https://ealklohoih0.feishu.cn/share/base/form/shrcnbagoMfbUbcz9To4xla6TWf'
     }
@@ -1158,7 +1158,7 @@ const courses = ref([
     start_time: '2026-04-10',
     end_time: '2026-04-10',
     teacher_name: '蔡老师',
-    image_url: '/images/caitiebing_bi.jpg',
+    image_url: 'https://toney17951-123456.github.io/sanning-vocational-school/images/caitiebing_bi.jpg',
     details: {
       overview: '本课程旨在帮助学员掌握BI看板制作技能，学习Power BI、Tableau等主流BI工具的使用，提升数据可视化能力，让数据说话，为决策提供有力支持。',
       objectives: [
@@ -1231,7 +1231,7 @@ const courses = ref([
       ]
     },
     payment_info: {
-      qrcode: '/images/payment-qrcode.jpg',
+      qrcode: 'https://toney17951-123456.github.io/sanning-vocational-school/images/payment-qrcode.jpg',
       bank_account: '中国招商银行 622588 1234 5678 9012 赵六',
       registration_link: 'https://ealklohoih0.feishu.cn/share/base/form/shrcngaRYyuwDmmvZ8kDuB8Zoyb'
     }
@@ -1245,7 +1245,7 @@ const courses = ref([
     start_time: '2026-04-16',
     end_time: '2026-04-17',
     teacher_name: '蔡老师',
-    image_url: '/images/caitiebing_feishu.png',
+    image_url: 'https://toney17951-123456.github.io/sanning-vocational-school/images/caitiebing_feishu.png',
     details: {
       overview: '本课程旨在帮助学员掌握飞书高效应用技巧，提升团队协作效率，包括飞书文档、会议、日历、审批等功能的深入使用，让飞书成为团队协作的得力助手。',
       objectives: [
@@ -1310,7 +1310,7 @@ const courses = ref([
       ]
     },
     payment_info: {
-      qrcode: '/images/payment-qrcode.jpg',
+      qrcode: 'https://toney17951-123456.github.io/sanning-vocational-school/images/payment-qrcode.jpg',
       bank_account: '中国农业银行 622848 1234 5678 9012 王五',
       registration_link: 'https://ealklohoih0.feishu.cn/share/base/form/shrcnbagoMfbUbcz9To4xla6TWf'
     }
@@ -1324,7 +1324,7 @@ const courses = ref([
     start_time: '2026-04-20',
     end_time: '2026-04-20',
     teacher_name: '陈老师',
-    image_url: '/images/teacher-chenkaihong.jpg',
+    image_url: 'https://toney17951-123456.github.io/sanning-vocational-school/images/teacher-chenkaihong.jpg',
     details: {
       overview: '本课程旨在深入学习习总书记关于安全生产的重要论述与精神，帮助学员理解安全生产的重要性，提升安全生产意识与管理水平，落实安全生产主体责任。',
       objectives: [
@@ -1395,7 +1395,7 @@ const courses = ref([
       ]
     },
     payment_info: {
-      qrcode: '/images/payment-qrcode.jpg',
+      qrcode: 'https://toney17951-123456.github.io/sanning-vocational-school/images/payment-qrcode.jpg',
       bank_account: '中国建设银行 621700 1234 5678 9012 李四',
       registration_link: 'https://ealklohoih0.feishu.cn/share/base/form/shrcnbagoMfbUbcz9To4xla6TWf'
     }
@@ -1409,7 +1409,7 @@ const courses = ref([
     start_time: '2026-04-21',
     end_time: '2026-04-21',
     teacher_name: '陈老师',
-    image_url: '/images/teacher-chenkaihong.jpg',
+    image_url: 'https://toney17951-123456.github.io/sanning-vocational-school/images/teacher-chenkaihong.jpg',
     details: {
       overview: '本课程旨在深入解读安全生产法等安全生产法律法规，帮助学员理解安全生产法律法规的核心内容，提升企业安全生产法治意识与合规管理水平，降低安全生产法律风险。',
       objectives: [
@@ -1481,7 +1481,7 @@ const courses = ref([
       ]
     },
     payment_info: {
-      qrcode: '/images/payment-qrcode.jpg',
+      qrcode: 'https://toney17951-123456.github.io/sanning-vocational-school/images/payment-qrcode.jpg',
       bank_account: '中国工商银行 622202 1234 5678 9012 张三',
       registration_link: 'https://ealklohoih0.feishu.cn/share/base/form/shrcnbagoMfbUbcz9To4xla6TWf'
     }
@@ -1495,7 +1495,7 @@ const courses = ref([
     start_time: '2026-04-25',
     end_time: '2026-04-25',
     teacher_name: '陈老师',
-    image_url: '/images/teacher-chenkaihong.jpg',
+    image_url: 'https://toney17951-123456.github.io/sanning-vocational-school/images/teacher-chenkaihong.jpg',
     details: {
       overview: '本课程旨在深入解读工伤保险和工伤预防政策，帮助企业和员工了解工伤保险权益，加强工伤预防工作，降低工伤事故发生率，保障员工的合法权益。',
       objectives: [
@@ -1566,7 +1566,7 @@ const courses = ref([
       ]
     },
     payment_info: {
-      qrcode: '/images/payment-qrcode.jpg',
+      qrcode: 'https://toney17951-123456.github.io/sanning-vocational-school/images/payment-qrcode.jpg',
       bank_account: '中国招商银行 622588 1234 5678 9012 赵六',
       registration_link: 'https://ealklohoih0.feishu.cn/share/base/form/shrcngaRYyuwDmmvZ8kDuB8Zoyb'
     }
@@ -1580,7 +1580,7 @@ const courses = ref([
     start_time: '2026-04-30',
     end_time: '2026-04-30',
     teacher_name: '陈老师',
-    image_url: '/images/teacher-chenkaihong.jpg',
+    image_url: 'https://toney17951-123456.github.io/sanning-vocational-school/images/teacher-chenkaihong.jpg',
     details: {
       overview: '本课程旨在帮助企业员工学习法律基础常识，增强法律意识，维护自身合法权益，构建和谐劳动关系，同时促进企业的合规管理。',
       objectives: [
@@ -1652,7 +1652,7 @@ const courses = ref([
       ]
     },
     payment_info: {
-      qrcode: '/images/payment-qrcode.jpg',
+      qrcode: 'https://toney17951-123456.github.io/sanning-vocational-school/images/payment-qrcode.jpg',
       bank_account: '中国农业银行 622848 1234 5678 9012 王五',
       registration_link: 'https://ealklohoih0.feishu.cn/share/base/form/shrcnbagoMfbUbcz9To4xla6TWf'
     }
@@ -1666,7 +1666,7 @@ const courses = ref([
     start_time: '2026-05-05',
     end_time: '2026-05-07',
     teacher_name: '陈老师',
-    image_url: '/images/teacher-chenkaihong.jpg',
+    image_url: 'https://toney17951-123456.github.io/sanning-vocational-school/images/teacher-chenkaihong.jpg',
     details: {
       overview: '本课程旨在帮助学员学习维修钳工的基本技能与实训操作，掌握钳工维修的核心技术，提升实操能力，成为合格的维修钳工。',
       objectives: [
@@ -1739,7 +1739,7 @@ const courses = ref([
       ]
     },
     payment_info: {
-      qrcode: '/images/payment-qrcode.jpg',
+      qrcode: 'https://toney17951-123456.github.io/sanning-vocational-school/images/payment-qrcode.jpg',
       bank_account: '中国建设银行 621700 1234 5678 9012 李四',
       registration_link: 'https://ealklohoih0.feishu.cn/share/base/form/shrcnbagoMfbUbcz9To4xla6TWf'
     }
@@ -1753,7 +1753,7 @@ const courses = ref([
     start_time: '2026-05-15',
     end_time: '2026-05-15',
     teacher_name: '陈老师',
-    image_url: '/images/teacher-chenkaihong.jpg',
+    image_url: 'https://toney17951-123456.github.io/sanning-vocational-school/images/teacher-chenkaihong.jpg',
     details: {
       overview: '本课程旨在帮助学员学习职业规划的基本理论与方法，进行自我认知与职业定位，制定合理的职业规划，实现职业发展目标，提升职业竞争力。',
       objectives: [
@@ -1825,7 +1825,7 @@ const courses = ref([
       ]
     },
     payment_info: {
-      qrcode: '/images/payment-qrcode.jpg',
+      qrcode: 'https://toney17951-123456.github.io/sanning-vocational-school/images/payment-qrcode.jpg',
       bank_account: '中国工商银行 622202 1234 5678 9012 张三',
       registration_link: 'https://ealklohoih0.feishu.cn/share/base/form/shrcnbagoMfbUbcz9To4xla6TWf'
     }
@@ -1839,7 +1839,7 @@ const courses = ref([
     start_time: '2026-05-21',
     end_time: '2026-05-21',
     teacher_name: '陈老师',
-    image_url: '/images/teacher-chenkaihong.jpg',
+    image_url: 'https://toney17951-123456.github.io/sanning-vocational-school/images/teacher-chenkaihong.jpg',
     details: {
       overview: '本课程旨在帮助企业管理者和HR人员学习劳动关系法律风险的识别与防控，掌握劳动争议的处理方法，构建和谐劳动关系，降低企业法律风险。',
       objectives: [
@@ -1911,7 +1911,7 @@ const courses = ref([
       ]
     },
     payment_info: {
-      qrcode: '/images/payment-qrcode.jpg',
+      qrcode: 'https://toney17951-123456.github.io/sanning-vocational-school/images/payment-qrcode.jpg',
       bank_account: '中国招商银行 622588 1234 5678 9012 赵六',
       registration_link: 'https://ealklohoih0.feishu.cn/share/base/form/shrcngaRYyuwDmmvZ8kDuB8Zoyb'
     }
@@ -1925,7 +1925,7 @@ const courses = ref([
     start_time: '2026-03-2',
     end_time: '2026-03-4',
     teacher_name: '刘老师',
-    image_url: '/images/teacher-caitiebing.png',
+    image_url: 'https://toney17951-123456.github.io/sanning-vocational-school/images/teacher-caitiebing.png',
     details: {
       overview: '从知法律法规、明安全知识、懂风险识别、精防范实施、能应急处置、会器材使用等六个方面实施，引导员工对理论知识的内化和理解，强化安全技能提升。',
       objectives: [
@@ -1992,7 +1992,7 @@ const courses = ref([
       ]
     },
     payment_info: {
-      qrcode: '/images/payment-qrcode.jpg',
+      qrcode: 'https://toney17951-123456.github.io/sanning-vocational-school/images/payment-qrcode.jpg',
       bank_account: '中国工商银行 622202 1234 5678 9012 张三',
       registration_link: 'https://ealklohoih0.feishu.cn/share/base/form/shrcnbagoMfbUbcz9To4xla6TWf'
     }
@@ -2006,7 +2006,7 @@ const courses = ref([
     start_time: '2026-03-7',
     end_time: '2026-03-8',
     teacher_name: '刘老师',
-    image_url: '/images/teacher-caitiebing.png',
+    image_url: 'https://toney17951-123456.github.io/sanning-vocational-school/images/teacher-caitiebing.png',
     details: {
       overview: '围绕化工检维修作业的安全展开，以及动火、受限空间、高处等关键作业环节的安全要点，规范作业行为，全面掌握检维修作业的安全知识和技能。',
       objectives: [
@@ -2073,7 +2073,7 @@ const courses = ref([
       ]
     },
     payment_info: {
-      qrcode: '/images/payment-qrcode.jpg',
+      qrcode: 'https://toney17951-123456.github.io/sanning-vocational-school/images/payment-qrcode.jpg',
       bank_account: '中国工商银行 622202 1234 5678 9012 张三',
       registration_link: 'https://ealklohoih0.feishu.cn/share/base/form/shrcnbagoMfbUbcz9To4xla6TWf'
     }
@@ -2087,7 +2087,7 @@ const courses = ref([
     start_time: '2026-03-10',
     end_time: '2026-03-11',
     teacher_name: '刘老师',
-    image_url: '/images/teacher-caitiebing.png',
+    image_url: 'https://toney17951-123456.github.io/sanning-vocational-school/images/teacher-caitiebing.png',
     details: {
       overview: '涵盖火灾、爆炸、中毒、触电、高处坠落等事故场景下，迅速反应，科学处置步骤，掌握各类应急救援器材、消防设施器材、心肺复苏和创伤包扎等技能。',
       objectives: [
@@ -2159,7 +2159,7 @@ const courses = ref([
       ]
     },
     payment_info: {
-      qrcode: '/images/payment-qrcode.jpg',
+      qrcode: 'https://toney17951-123456.github.io/sanning-vocational-school/images/payment-qrcode.jpg',
       bank_account: '中国工商银行 622202 1234 5678 9012 张三',
       registration_link: 'https://ealklohoih0.feishu.cn/share/base/form/shrcnbagoMfbUbcz9To4xla6TWf'
     }
@@ -2173,7 +2173,7 @@ const courses = ref([
     start_time: '2026-03-15',
     end_time: '2026-03-17',
     teacher_name: '熊老师',
-    image_url: '/images/teacher-xiongchenyang.jpg',
+    image_url: 'https://toney17951-123456.github.io/sanning-vocational-school/images/teacher-xiongchenyang.jpg',
     details: {
       overview: '介绍硝化反应机理、工艺流程、安全防护和应急处置，提高学员安全生产意识和操作能力，为化工行业相关岗位提供专业知识和技能支持。',
       objectives: [
@@ -2236,7 +2236,7 @@ const courses = ref([
       ]
     },
     payment_info: {
-      qrcode: '/images/payment-qrcode.jpg',
+      qrcode: 'https://toney17951-123456.github.io/sanning-vocational-school/images/payment-qrcode.jpg',
       bank_account: '中国工商银行 622202 1234 5678 9012 张三',
       registration_link: 'https://ealklohoih0.feishu.cn/share/base/form/shrcnbagoMfbUbcz9To4xla6TWf'
     }
@@ -2250,7 +2250,7 @@ const courses = ref([
     start_time: '2026-03-20',
     end_time: '2026-03-22',
     teacher_name: '熊老师',
-    image_url: '/images/teacher-xiongchenyang.jpg',
+    image_url: 'https://toney17951-123456.github.io/sanning-vocational-school/images/teacher-xiongchenyang.jpg',
     details: {
       overview: '介绍氧化反应机理、工艺流程、安全防护和应急处置，提高学员安全生产意识和操作能力，为化工行业相关岗位提供专业知识和技能支持。',
       objectives: [
@@ -2313,7 +2313,7 @@ const courses = ref([
       ]
     },
     payment_info: {
-      qrcode: '/images/payment-qrcode.jpg',
+      qrcode: 'https://toney17951-123456.github.io/sanning-vocational-school/images/payment-qrcode.jpg',
       bank_account: '中国工商银行 622202 1234 5678 9012 张三',
       registration_link: 'https://ealklohoih0.feishu.cn/share/base/form/shrcnbagoMfbUbcz9To4xla6TWf'
     }
@@ -2327,7 +2327,7 @@ const courses = ref([
     start_time: '2026-03-25',
     end_time: '2026-03-27',
     teacher_name: '熊老师',
-    image_url: '/images/teacher-xiongchenyang.jpg',
+    image_url: 'https://toney17951-123456.github.io/sanning-vocational-school/images/teacher-xiongchenyang.jpg',
     details: {
       overview: '介绍氟化反应机理、工艺流程、安全防护和应急处置，提高学员安全生产意识和操作能力，为化工行业相关岗位提供专业知识和技能支持。',
       objectives: [
@@ -2390,7 +2390,7 @@ const courses = ref([
       ]
     },
     payment_info: {
-      qrcode: '/images/payment-qrcode.jpg',
+      qrcode: 'https://toney17951-123456.github.io/sanning-vocational-school/images/payment-qrcode.jpg',
       bank_account: '中国工商银行 622202 1234 5678 9012 张三',
       registration_link: 'https://ealklohoih0.feishu.cn/share/base/form/shrcnbagoMfbUbcz9To4xla6TWf'
     }
@@ -2404,7 +2404,7 @@ const courses = ref([
     start_time: '2026-03-2',
     end_time: '2026-03-6',
     teacher_name: '许老师',
-    image_url: '/images/63e525334b883174d828aac3b4603ec6.jpg',
+    image_url: 'https://toney17951-123456.github.io/sanning-vocational-school/images/63e525334b883174d828aac3b4603ec6.jpg',
     details: {
       overview: '本课程系统介绍化工过程检测、控制仪表及自动化系统。涵盖温度、压力、流量等常见参数的测量原理，讲解PID控制、执行机构及DCS/PLC系统的基本应用。通过理论与实践结合，培养学生仪表选型、系统调试及故障分析的初步能力，适应现代化工生产智能化控制需求。',
       objectives: [
@@ -2487,7 +2487,7 @@ const courses = ref([
       ]
     },
     payment_info: {
-      qrcode: '/images/payment-qrcode.jpg',
+      qrcode: 'https://toney17951-123456.github.io/sanning-vocational-school/images/payment-qrcode.jpg',
       bank_account: '中国工商银行 622202 1234 5678 9012 张三',
       registration_link: 'https://ealklohoih0.feishu.cn/share/base/form/shrcnbagoMfbUbcz9To4xla6TWf'
     }
@@ -2501,7 +2501,7 @@ const courses = ref([
     start_time: '2026-03-10',
     end_time: '2026-03-10',
     teacher_name: '许老师',
-    image_url: '/images/zhiyejinengdengjirending.jpg',
+    image_url: 'https://toney17951-123456.github.io/sanning-vocational-school/images/zhiyejinengdengjirending.jpg',
     details: {
       overview: '本课程解析国家职业技能等级制度框架与实施路径。重点讲解职业标准开发、评价方案设计、题库建设及质量督导流程。通过案例分析与模拟设计，使学员掌握从标准制定到考核认证的全链条建设能力，为开展行业或企业技能人才评价工作奠定基础。',
       objectives: [
@@ -2569,7 +2569,7 @@ const courses = ref([
       ]
     },
     payment_info: {
-      qrcode: '/images/payment-qrcode.jpg',
+      qrcode: 'https://toney17951-123456.github.io/sanning-vocational-school/images/payment-qrcode.jpg',
       bank_account: '中国工商银行 622202 1234 5678 9012 张三',
       registration_link: 'https://ealklohoih0.feishu.cn/share/base/form/shrcnbagoMfbUbcz9To4xla6TWf'
     }
@@ -2583,7 +2583,7 @@ const courses = ref([
     start_time: '2025-10-15',
     end_time: '2025-10-15',
     teacher_name: '许老师',
-    image_url: '/images/huagongzhuanyekechengjianshe.jpg',
+    image_url: 'https://toney17951-123456.github.io/sanning-vocational-school/images/huagongzhuanyekechengjianshe.jpg',
     details: {
       overview: '本课程围绕高校化学工程与工艺专业建设全流程展开。内容涵盖产业需求调研、培养目标设定、课程体系构建、实践教学条件建设及质量保障机制。旨在培养学员系统化专业规划与设计能力，能够制定符合工程教育认证标准、对接产业发展的特色化专业人才培养方案。',
       objectives: [
@@ -2650,7 +2650,7 @@ const courses = ref([
       ]
     },
     payment_info: {
-      qrcode: '/images/payment-qrcode.jpg',
+      qrcode: 'https://toney17951-123456.github.io/sanning-vocational-school/images/payment-qrcode.jpg',
       bank_account: '中国工商银行 622202 1234 5678 9012 张三',
       registration_link: 'https://ealklohoih0.feishu.cn/share/base/form/shrcnbagoMfbUbcz9To4xla6TWf'
     }
@@ -2664,7 +2664,7 @@ const courses = ref([
     start_time: '2025-10-20',
     end_time: '2025-10-20',
     teacher_name: '李老师',
-    image_url: '/images/微信图片_20251229154726_420_143.png',
+    image_url: 'https://toney17951-123456.github.io/sanning-vocational-school/images/微信图片_20251229154726_420_143.png',
     details: {
       overview: '本课程围绕消防法律法规及通用规范的系统化解读与应用展开。内容涵盖消防法律体系框架、关键法规条文解析、通用技术标准解读、典型执法案例剖析及行业合规实践。课程旨在培养学员对消防法规的全面理解与准确应用能力，使其能够熟练掌握现行消防法律法规要求，具备依据规范开展消防安全管理、风险评估及合规建设的专业化能力。',
       objectives: [
@@ -2728,7 +2728,7 @@ const courses = ref([
       ]
     },
     payment_info: {
-      qrcode: '/images/payment-qrcode.jpg',
+      qrcode: 'https://toney17951-123456.github.io/sanning-vocational-school/images/payment-qrcode.jpg',
       bank_account: '中国工商银行 622202 1234 5678 9012 张三',
       registration_link: 'https://ealklohoih0.feishu.cn/share/base/form/shrcnbagoMfbUbcz9To4xla6TWf'
     }
@@ -2742,7 +2742,7 @@ const courses = ref([
     start_time: '2025-10-25',
     end_time: '2025-10-25',
     teacher_name: '李老师',
-    image_url: '/images/微信图片_20251229154726_420_143.png',
+    image_url: 'https://toney17951-123456.github.io/sanning-vocational-school/images/微信图片_20251229154726_420_143.png',
     details: {
       overview: '本课程围绕电气工程图纸的系统化识读与分析展开。内容涵盖电气图形符号与文字标识规范、低压配电系统图解析、动力与照明工程图识读、二次控制回路图分析、建筑电气平面图解读及现代电气设计软件基础。旨在培养学员对电气工程图纸的准确理解与分析能力，使其能够独立识读各类电气施工图、系统图与控制原理图，并具备结合工程实际进行图纸会审与技术交底的基础技能。',
       objectives: [
@@ -2810,7 +2810,7 @@ const courses = ref([
       ]
     },
     payment_info: {
-      qrcode: '/images/payment-qrcode.jpg',
+      qrcode: 'https://toney17951-123456.github.io/sanning-vocational-school/images/payment-qrcode.jpg',
       bank_account: '中国工商银行 622202 1234 5678 9012 张三',
       registration_link: 'https://ealklohoih0.feishu.cn/share/base/form/shrcnbagoMfbUbcz9To4xla6TWf'
     }
