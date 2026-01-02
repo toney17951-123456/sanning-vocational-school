@@ -144,7 +144,7 @@ const showNewsDetail = (news) => {
 }
 
 const handleCurrentChange = (val) => {
-  console.log(`当前页: ${val}`)
+
   // 这里可以添加分页逻辑
 }
 </script>
