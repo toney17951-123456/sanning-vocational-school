@@ -49,62 +49,13 @@
       </div>
     </section>
 
-    <section class="courses-preview">
-      <div class="container">
-        <h2>热门课程</h2>
-        <div class="courses-grid">
-          <el-card v-for="course in courses" :key="course.id" class="course-card">
-            <template #header>
-              <div class="card-header">
-                <h3>{{ course.name }}</h3>
-              </div>
-            </template>
-            <div class="course-content">
-              <p>{{ course.description }}</p>
-              <div class="course-info">
-                <span class="duration">{{ course.duration }}</span>
-                <span class="price">¥{{ course.price }}</span>
-              </div>
-              <el-button type="primary" @click="$router.push(`/apply/${course.id}`)">立即报名</el-button>
-            </div>
-          </el-card>
-        </div>
-        <div class="view-all">
-          <el-button type="default" @click="$router.push('/courses')">查看全部课程</el-button>
-        </div>
-      </div>
-    </section>
+
   </div>
 </template>
 
 <script setup>
 import { ref } from 'vue'
 import { StarFilled, UserFilled, Document, Location } from '@element-plus/icons-vue'
-
-// 模拟课程数据
-const courses = ref([
-  {
-    id: 1,
-    name: 'Office三剑客',
-    description: '包括word、excel、ppt必备核心技能，实现高效办公。',
-    duration: '10天',
-    price: 3999
-  },
-  {
-    id: 2,
-    name: 'AI应用助力高效办公',
-    description: '学习AI应用，提升办公效率，实现智能办公。',
-    duration: '2天',
-    price: 1399
-  },
-  {
-    id: 3,
-    name: 'TTT：培训师培训',
-    description: '培训师培训，提升专、兼职讲师培训技能，实现突破自我，真正成为一位接受市场考研的专业培训讲师。',
-    duration: '4天',
-    price: 1999
-  }
-])
 </script>
 
 <style scoped>
@@ -165,66 +116,5 @@ const courses = ref([
   font-size: 2.5rem;
   color: #409eff;
   margin-bottom: 1rem;
-}
-
-.courses-preview {
-  padding: 3rem 0;
-  background-color: #f5f5f5;
-}
-
-.courses-preview h2 {
-  text-align: center;
-  margin-bottom: 2rem;
-  color: #333;
-}
-
-.courses-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 2rem;
-  margin-bottom: 2rem;
-}
-
-.course-card {
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-}
-
-.card-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.course-content {
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-}
-
-.course-content p {
-  margin-bottom: 1rem;
-  flex: 1;
-}
-
-.course-info {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 1rem;
-}
-
-.duration {
-  color: #666;
-}
-
-.price {
-  font-weight: bold;
-  color: #e6a23c;
-}
-
-.view-all {
-  text-align: center;
 }
 </style>
