@@ -43,3 +43,6 @@ Thumbs.db
 
 # Other
 ~$*.docx
+
+# Build output
+dist/

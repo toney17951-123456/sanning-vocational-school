@@ -258,7 +258,7 @@
               <el-button 
                 type="primary" 
                 size="large"
-                @click="window.open(selectedRegistrationCourse.payment_info.registration_link, '_blank')"
+                @click="openFeishuForm()"
                 class="form-button"
               >
                 <el-icon><Link /></el-icon>
@@ -2880,6 +2880,11 @@ watch(
     handleRouteParams()
   }
 )
+
+// 打开飞书报名表单
+const openFeishuForm = () => {
+  window.open('https://ealklohoih0.feishu.cn/share/base/form/shrcngaRYyuwDmmvZ8kDuB8Zoyb', '_blank')
+}
 
 // 页面加载时处理路由参数
 onMounted(() => {
